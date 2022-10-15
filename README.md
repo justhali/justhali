@@ -1,4 +1,4 @@
-<h1>">Hi 👋, I'm Halima</h1>
+<h1>Hi 👋, I'm Halima</h1>
 <h3 align="center">A fullstack developer's assistant (apprenticeship)</h3>
 
 - 🔭 I'm happy to start this journey with [SNCF Connect & Tech](https://jobs.connect-tech.sncf/nous)
