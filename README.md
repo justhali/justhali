@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Halima</h1>
-<h3 align="center">A fullstack developer's assistant (apprenticeship)</h3>
+<h3 align="center">A web developer</h3>
 
-- 🔭 I'm happy to start this journey with [SNCF Connect & Tech](https://jobs.connect-tech.sncf/nous)
+- ✨ I've finished an apprenticeship in February 2024 at [SNCF Connect & Tech](https://jobs.connect-tech.sncf/nous) and [O'Clock school](https://oclock.io)
 
-- 🌱 I’m also learning new languages with [O'Clock school](https://oclock.io)
+- 🌱 Now I'm working on personal projects to improve my skills and take care of myself by going at my own path 
 
-- 👨‍💻 Most of my projects are available at [halima-ahmed.netlify.app](halima-ahmed.netlify.app)
+- 🚧 My projects will be available at [halima-ahmed.netlify.app](halima-ahmed.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
