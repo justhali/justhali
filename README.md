@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨  I've finished an apprenticeship in February 2024 at [SNCF Connect & Tech](https://jobs.connect-tech.sncf/nous) and [O'Clock school](https://oclock.io)<br>📚 I'm currently working on personal projects to improve my skills and take care of myself by going at my own pace <br>🎯 Goals: gain more confidence in JS to be a front-end developer<br>🚧 My projects will be available at [halima-ahmed.netlify.app](halima-ahmed.netlify.app)</p><br>
+✨  I've finished an apprenticeship in February 2024 at [SNCF Connect & Tech](https://jobs.connect-tech.sncf/nous) and [O'Clock school](https://oclock.io)<br>📚 I'm currently working on personal projects to improve my skills and take care of myself by going at my own pace <br>🎯 Goals: gain more confidence in JS to be a front-end developer<br>🚧 My projects will be available soon on a new portfolio </p><br>
 
 
 ## 🌐 Socials:
